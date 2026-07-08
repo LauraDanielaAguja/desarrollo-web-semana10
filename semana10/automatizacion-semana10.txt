@@ -1,0 +1,10 @@
+flujo de automatizacion propuesto con n8n y telegram
+
+evento que activa el flujo
+el flujo se dispara de forma automatica en n8n cada vez que un ciudadano guarda un nuevo reporte comunitario en el sistema
+
+mensaje enviado a telegram
+se envia una alerta al grupo de veeduria que dice atencion se ha registrado un nuevo caso comunitario en la plataforma por favor revisar la lista de tareas pendientes
+
+informacion oculta por seguridad
+por temas de privacidad y cuidado de la gente nunca se deben mandar nombres completos de quien denuncia telefonos personales direcciones exactas ni ningun tipo de token o contraseña del servidor

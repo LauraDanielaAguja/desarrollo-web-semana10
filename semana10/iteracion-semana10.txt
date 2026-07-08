@@ -1,0 +1,11 @@
+tareas prioritarias
+las dos tareas que haria primero son el registro de la queja publica y la visualizacion de la lista de pendientes
+
+por que son importantes
+pienso que son las mas importantes porque si los vecinos no pueden registrar sus problemas la plataforma se queda vacia y no sirve para nada ademas el equipo de veeduria necesita la lista basica para empezar a trabajar de forma ordenada antes de inventar alertas o mapas avanzados
+
+definicion de terminado para mi equipo
+para que una tarea este realmente terminada debe cumplir estos tres criterios simples
+funciona de forma correcta al probarla localmente
+el codigo de express no genera errores en la consola
+quedo guardada y registrada con un commit limpio en git

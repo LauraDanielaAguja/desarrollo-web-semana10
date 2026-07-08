@@ -1,0 +1,12 @@
+historias de usuario para el proyecto comunitario
+
+1 como vecino afectado quiero registrar una queja publica con fotos para dejar evidencia de los problemas del barrio
+2 como veedor de la comunidad quiero ver la lista de quejas pendientes para priorizar cuales revisar primero en la semana
+3 como vecino del barrio quiero ver un mapa con los reportes solucionados para saber si los compromisos se estan cumpliendo
+4 como coordinador del equipo quiero recibir una alerta automatica en mi celular cuando entre una queja nueva y urgente
+
+orden de prioridad de mayor a menor importancia
+prioridad alta 1 registrar la queja publica porque sin datos no hay proyecto
+prioridad media alta 2 ver la lista de quejas pendientes para organizar el trabajo diario
+prioridad media 4 recibir la alerta automatica en el celular para reaccionar rapido ante emergencias
+prioridad baja 3 ver el mapa de reportes solucionados porque eso puede esperar a que la plataforma avance
